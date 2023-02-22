@@ -1,0 +1,1 @@
+Javascript är ett programerings språk som används inom webbutvecling som kan utföra funktioner mm
